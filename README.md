@@ -7,3 +7,5 @@ This project was created at Plovdiv University during lectures.
 
 - Command Pattern
 - Observer Pattern
+- Mediator Pattern
+- Factory Pattern
