@@ -9,3 +9,4 @@ This project was created at Plovdiv University during lectures.
 - Observer Pattern
 - Mediator Pattern
 - Factory Pattern
+- Chain Of Responsibility Pattern
