@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7FC181B0-CF04-4F96-BDBB-2BF2850E0289}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="ISubject.cs" Line="9" Column="4" IsPinned="True" />
+      <File FileName="AbstractEmployee.cs" Line="5" Column="32" />
+      <File FileName="IObserver.cs" Line="2" Column="32" />
+      <File FileName="ObserverEmployee.cs" />
+      <File FileName="Program.cs" Line="3" Column="1" />
+      <File FileName="PlovdivEmployee.cs" />
+      <File FileName="CountryEmployee.cs" />
+      <File FileName="AwaitingPackage.cs" />
+      <File FileName="IHandler.cs" />
+      <File FileName="PreparingPakage.cs" />
+      <File FileName="State.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChaneOfResponsibility" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
